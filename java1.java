@@ -1,2 +1,3 @@
 
   private int code;
+yuexi();
